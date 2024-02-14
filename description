@@ -1,0 +1,8 @@
+Le projet illustre un exemple complet de CRUD (Create, Read, Update, Delete) implémenté avec JHipster et Spring Boot. Le domaine spécifique abordé dans ce contexte est la gestion des étudiants. À l'aide de JHipster, une application moderne est construite en respectant les meilleures pratiques de développement web. Spring Boot fournit la couche backend robuste et performante pour la manipulation des données des étudiants, tandis que JHipster facilite le développement rapide d'applications web avec son générateur de code intégré.
+
+L'application permet d'effectuer les opérations suivantes :
+
+Création d'un étudiant : Ajout d'un nouvel étudiant avec ses détails.
+Consultation d'étudiants : Affichage de la liste complète des étudiants existants.
+Modification d'un étudiant : Mise à jour des informations d'un étudiant existant.
+Suppression d'un étudiant : Retrait d'un étudiant de la base de données.
